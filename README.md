@@ -6,3 +6,10 @@ This interactive Amazon Sales Dashboard is designed to support quick decision-ma
 ![image](https://github.com/user-attachments/assets/3a353bbd-0d38-4b0a-b368-d60e71c1c987)
 
 
+
+
+
+
+![image](https://github.com/user-attachments/assets/0acb6662-ffdb-47a6-b1da-11815020c9c5)
+
+
